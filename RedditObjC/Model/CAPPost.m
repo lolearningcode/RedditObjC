@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  CAPPost.m
 //  RedditObjC
 //
 //  Created by Lo Howard on 5/21/19.
 //  Copyright © 2019 Lo Howard. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "CAPPost.h"
 
-@interface ViewController : UIViewController
-
+@implementation CAPPost
 
 @end
-
